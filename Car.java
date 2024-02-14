@@ -33,9 +33,6 @@ class Car
     {
         return basePricePerDay;
     }
-    static void cals(){
-        
-    }
     
     public double calculateRentPrice(int rentalDays)
     {
